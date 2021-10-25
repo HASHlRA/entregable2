@@ -155,6 +155,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 46f557558119ace4684a70b15f3f578d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isgameOver: 0
+  damage: 60
 --- !u!65 &350000979
 BoxCollider:
   m_ObjectHideFlags: 0
